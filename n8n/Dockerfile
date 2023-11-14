@@ -1,4 +1,4 @@
-FROM naskio/n8n-python:1.15.2
+FROM naskio/n8n-python:1.15.1
 
 USER root
 

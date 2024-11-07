@@ -1,2 +1,2 @@
 # ghevent
-Playground for GitHub event and webhook.
+Playground for GitHub event and webhook
